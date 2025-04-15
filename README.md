@@ -11,3 +11,7 @@
 ### React Floating Plugins :
  - Floating UI ( Tooltip, Comboboxes, Dialog Boxes, Dropdown Menu, ... ) 
    https://floating-ui.com/
+
+### Images :
+ - Vecteezy ( PNG, 3D Models, Images, Vectors ) 
+   https://www.vecteezy.com/png/24785816-3d-male-character-happy-working-on-a-laptop
